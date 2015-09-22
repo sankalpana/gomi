@@ -17,7 +17,7 @@ password with requests to authenticate.
 ```
 // Response
 {
-        error: "",
+  error: "",
 }
 ```
 
